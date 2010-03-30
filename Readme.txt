@@ -1,1 +1,1 @@
-Esse repositório foi criado para que eu pudesse testar o github
+Esse repositorio foi criado para que eu pudesse testar o github
